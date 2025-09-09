@@ -1,0 +1,210 @@
+[
+  {
+    "Id": 1,
+    "customerName": "John Smith",
+    "customerEmail": "john.smith@email.com",
+    "items": [
+      {
+        "productId": 1,
+        "title": "Wireless Bluetooth Headphones",
+        "price": 199.99,
+        "quantity": 1
+      }
+    ],
+    "total": 199.99,
+    "status": "delivered",
+    "shippingAddress": {
+      "address": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-15T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "customerName": "Sarah Johnson",
+    "customerEmail": "sarah.j@email.com",
+    "items": [
+      {
+        "productId": 3,
+        "title": "Smart Watch Series X",
+        "price": 399.99,
+        "quantity": 1
+      },
+      {
+        "productId": 5,
+        "title": "Wireless Charging Pad",
+        "price": 39.99,
+        "quantity": 1
+      }
+    ],
+    "total": 439.98,
+    "status": "shipped",
+    "shippingAddress": {
+      "address": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90210",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-14T11:20:00Z"
+  },
+  {
+    "Id": 3,
+    "customerName": "Mike Davis",
+    "customerEmail": "mike.davis@email.com",
+    "items": [
+      {
+        "productId": 2,
+        "title": "Ergonomic Office Chair",
+        "price": 299.99,
+        "quantity": 1
+      }
+    ],
+    "total": 299.99,
+    "status": "processing",
+    "shippingAddress": {
+      "address": "789 Pine St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-13T16:45:00Z"
+  },
+  {
+    "Id": 4,
+    "customerName": "Emily Wilson",
+    "customerEmail": "emily.wilson@email.com",
+    "items": [
+      {
+        "productId": 4,
+        "title": "Premium Coffee Maker",
+        "price": 159.99,
+        "quantity": 1
+      },
+      {
+        "productId": 9,
+        "title": "LED Desk Lamp",
+        "price": 59.99,
+        "quantity": 2
+      }
+    ],
+    "total": 279.97,
+    "status": "pending",
+    "shippingAddress": {
+      "address": "321 Elm St",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33101",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-12T09:15:00Z"
+  },
+  {
+    "Id": 5,
+    "customerName": "David Brown",
+    "customerEmail": "david.brown@email.com",
+    "items": [
+      {
+        "productId": 6,
+        "title": "4K Webcam",
+        "price": 129.99,
+        "quantity": 1
+      },
+      {
+        "productId": 7,
+        "title": "Mechanical Gaming Keyboard",
+        "price": 149.99,
+        "quantity": 1
+      }
+    ],
+    "total": 279.98,
+    "status": "delivered",
+    "shippingAddress": {
+      "address": "654 Maple Dr",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98101",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-11T13:30:00Z"
+  },
+  {
+    "Id": 6,
+    "customerName": "Lisa Garcia",
+    "customerEmail": "lisa.garcia@email.com",
+    "items": [
+      {
+        "productId": 8,
+        "title": "Portable Speaker",
+        "price": 79.99,
+        "quantity": 2
+      }
+    ],
+    "total": 159.98,
+    "status": "shipped",
+    "shippingAddress": {
+      "address": "987 Cedar Ln",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80201",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-10T18:20:00Z"
+  },
+  {
+    "Id": 7,
+    "customerName": "Robert Taylor",
+    "customerEmail": "robert.taylor@email.com",
+    "items": [
+      {
+        "productId": 1,
+        "title": "Wireless Bluetooth Headphones",
+        "price": 199.99,
+        "quantity": 1
+      },
+      {
+        "productId": 8,
+        "title": "Portable Speaker",
+        "price": 79.99,
+        "quantity": 1
+      }
+    ],
+    "total": 279.98,
+    "status": "pending",
+    "shippingAddress": {
+      "address": "147 Birch St",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02101",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-09T12:45:00Z"
+  },
+  {
+    "Id": 8,
+    "customerName": "Amanda Martinez",
+    "customerEmail": "amanda.martinez@email.com",
+    "items": [
+      {
+        "productId": 10,
+        "title": "Fitness Tracker",
+        "price": 89.99,
+        "quantity": 1
+      }
+    ],
+    "total": 89.99,
+    "status": "cancelled",
+    "shippingAddress": {
+      "address": "258 Spruce Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85001",
+      "country": "United States"
+    },
+    "createdAt": "2024-01-08T15:10:00Z"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "Id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Premium quality wireless headphones with active noise cancellation and 30-hour battery life. Perfect for music lovers and professionals.",
+    "price": 199.99,
+    "inventory": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Ergonomic Office Chair",
+    "description": "Professional ergonomic office chair with lumbar support, adjustable height, and breathable mesh back. Ideal for long work sessions.",
+    "price": 299.99,
+    "inventory": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-14T14:20:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Smart Watch Series X",
+    "description": "Latest generation smartwatch with health monitoring, GPS tracking, and 7-day battery life. Compatible with iOS and Android.",
+    "price": 399.99,
+    "inventory": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-13T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Premium Coffee Maker",
+    "description": "Programmable drip coffee maker with thermal carafe, built-in grinder, and customizable brew strength settings.",
+    "price": 159.99,
+    "inventory": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator and overcharge protection.",
+    "price": 39.99,
+    "inventory": 67,
+    "images": [
+      "https://images.unsplash.com/photo-1609592806095-aa74987b3c9a?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-11T11:30:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "4K Webcam",
+    "description": "Ultra HD 4K webcam with auto-focus, noise-canceling microphone, and wide-angle lens. Perfect for video conferencing and streaming.",
+    "price": 129.99,
+    "inventory": 31,
+    "images": [
+      "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-10T13:20:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Mechanical Gaming Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches, programmable keys, and aircraft-grade aluminum frame.",
+    "price": 149.99,
+    "inventory": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-09T08:45:00Z"
+  },
+  {
+    "Id": 8,
+    "title": "Portable Speaker",
+    "description": "Waterproof portable Bluetooth speaker with 360-degree sound, 20-hour battery life, and built-in voice assistant.",
+    "price": 79.99,
+    "inventory": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-08T15:10:00Z"
+  },
+  {
+    "Id": 9,
+    "title": "LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with multiple brightness levels, USB charging port, and touch controls. Energy efficient and eye-friendly.",
+    "price": 59.99,
+    "inventory": 42,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "status": "active",
+    "createdAt": "2024-01-07T12:00:00Z"
+  },
+  {
+    "Id": 10,
+    "title": "Fitness Tracker",
+    "description": "Advanced fitness tracker with heart rate monitoring, sleep tracking, and smartphone notifications. Water-resistant up to 50 meters.",
+    "price": 89.99,
+    "inventory": 0,
+    "images": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=500&h=500&fit=crop"
+    ],
+    "status": "inactive",
+    "createdAt": "2024-01-06T17:30:00Z"
+  }
+]

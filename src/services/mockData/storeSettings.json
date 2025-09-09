@@ -1,0 +1,25 @@
+{
+  "name": "StoreForge Demo Store",
+  "description": "Your premier destination for high-quality electronics and accessories. We offer carefully curated products with exceptional customer service.",
+  "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=200&fit=crop",
+  "theme": "default",
+  "currency": "USD",
+  "notifications": {
+    "email": true,
+    "sms": false,
+    "push": true
+  },
+  "shipping": {
+    "enabled": true,
+    "freeThreshold": 100,
+    "defaultRate": 9.99
+  },
+  "tax": {
+    "enabled": true,
+    "rate": 0.08
+  },
+  "payment": {
+    "methods": ["credit_card", "paypal", "apple_pay", "google_pay"],
+    "testMode": true
+  }
+}

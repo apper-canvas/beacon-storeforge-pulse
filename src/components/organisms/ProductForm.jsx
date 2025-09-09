@@ -1,9 +1,9 @@
-import { useState, useEffect } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import React, { useEffect, useState } from "react";
+import { AnimatePresence, motion } from "framer-motion";
 import ApperIcon from "@/components/ApperIcon";
-import Button from "@/components/atoms/Button";
 import FormField from "@/components/molecules/FormField";
 import Input from "@/components/atoms/Input";
+import Button from "@/components/atoms/Button";
 import Label from "@/components/atoms/Label";
 
 const ProductForm = ({ product, onSubmit, onClose }) => {
@@ -196,14 +196,13 @@ const ProductForm = ({ product, onSubmit, onClose }) => {
             {/* Product Images */}
             <div className="space-y-4">
               <h3 className="text-lg font-medium text-gray-900">Product Images</h3>
-              
-              {/* Add Image */}
-              <div className="flex gap-2">
+{/* Add Image */}
+              <div className="flex gap-3">
                 <Input
-                  type="url"
+                  placeholder="Enter image URL"
+                  type="text"
                   value={imageUrl}
                   onChange={(e) => setImageUrl(e.target.value)}
-                  placeholder="Enter image URL"
                   className="flex-1"
                 />
                 <Button
